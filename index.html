@@ -1,0 +1,198 @@
+<!-- SKY Software Engineering Academy - Unattended Test 
+	 Author: Marta Szukalska
+	 Date: 22nd October 2017
+	 Moodslider Web Application: HTML Part
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Moodslider</title>
+
+		<!-- Link to CSS style-->
+		<link rel="stylesheet" type="text/css" href="moodslider.css">
+		<!-- Link to Bootstrap script-->
+		<link href="bootstrap.css" rel="stylesheet">
+		<!-- Link to jQuery script-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</head>
+<body>	
+		<!-- Logo image -->
+		<h1 class="h1_style"><img class="img_style" src="sky_logo.png"><br> MOODSLIDER</h1>
+		<!-- End of logo image -->
+		<br><br>
+
+		<!-- Start of a navigation bar -->
+		<div class="row navbar_style">
+
+			<div class="col-lg-3 innerdiv_style">
+				<a id="upload">UPLOAD CONTENT</a>
+			</div>
+			<div class="col-lg-3 innerdiv_style">
+				<a id="slider" href="#sliders">SLIDERS</a>
+			</div>
+			<div class="col-lg-3 innerdiv_style">
+				<a id="programmes" href="#programmeslist">PROGRAMMS</a>
+			</div>
+			
+		</div>
+		<!-- End of a navigation bar -->
+		<hr></hr>
+		<br>
+
+		<!-- Start of a UPLOAD section -->
+
+		<div id="one">
+
+		<h2 id="uploadcontent" class="h2_style">UPLOAD CONTENT</h2>
+		<br>
+		<div class="row">
+			<div class="col-lg-3">
+				<br>
+				<label class="label_style">UPLOAD A FILE WITH MOVIES DATA: </label>
+			</div>
+			<div class="col-lg-3">
+				<br>
+				<input class="label_style" type="file" id="moviesFile">
+			</div>
+
+			<div class="col-lg-3">
+				<br>
+				<button class="label_style" id="button">SUBMIT</button>
+			</div>
+
+		</div>
+		<br><br><hr></hr><br>
+
+		</div>
+		<!-- End of UPLOAD section-->
+
+
+		<!-- Start of a slider section -->
+		<div id="two">
+		<h2 id="sliders" class="h2_style">SLIDERS</h2>
+
+		<br><br>
+
+		<!--First slider - AGITATED - CALM -->
+		<div class="row outter_style">
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">AGITATED</label>
+			</div>
+			<div class="col-lg-3 slider_style">
+				<input id="range" type="range" min="-1" max="1" step="1" value="0" name="mood1">
+			</div>
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">CALM</label>
+			</div>
+		</div>
+		<br><br><br>
+
+		<!-- End of first sider - AGITATED - CALM -->
+
+		<!-- Second slider - SAD - HAPPY-->
+		<div class="row outter_style">
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">SAD</label>
+			</div>
+			<div class="col-lg-3 slider_style">
+				<input id="range1" type="range" min="-1" max="1" step="1" value="0" name="mood2">
+			</div>
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">HAPPY</label>
+			</div>
+		</div>
+		<br><br><br>
+
+		<!-- End of second slider - SAD - HAPPY-->
+
+		<!-- Third slider - TIRED - WIDE AWAKE-->
+		<div class="row outter_style">
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">TIRED</label>
+			</div>
+			<div class="col-lg-3 slider_style">
+				<input id="range2" type="range" min="-1" max="1" step="1" value="0" name="mood3">
+			</div>
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">WIDE AWAKE</label>
+			</div>
+		</div>
+		<br><br><br>
+
+		<!-- End of third slider - TIRED - WIDE AWAKE -->
+
+		<!-- Fourth slider - SCARED - FEARLESSC-->
+		<div class="row outter_style">
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">SCARED</label>
+			</div>
+			<div class="col-lg-3 slider_style">
+				<input id="range3" type="range" min="-1" max="1" step="1" value="0" name="mood4">
+			</div>
+			<div class="col-lg-3 slider_style">
+				<label class="label_style">FEARLESS</label>
+			</div>
+		</div>
+
+		<br><br><br>
+
+		<div class="outter_style">
+			<p class="label_style"> CURRENT MOOD: </p>
+			<br>
+			<p id="currentmood" class="label_style"> </p>
+		</div>
+
+		<br><br><hr></hr><br>
+
+		<!--End of fourth slider - SCARED - FEARLESS -->
+		</div>
+		<!-- End of a SLIDER section  -->
+
+		<!-- Start of a PROGRAMMES section -->
+		<div id="three">
+
+		<h2 id="programmeslist" class="h2_style">PROGRAMMES</h2>
+		<br><br>
+		<div class="row">
+			<div class="col-lg-2">
+				<img id="image1" class="film_display_style" src="nocontent.png">
+				<br><br>
+				<p id="title1" class="title_style">No Content</p>
+			</div>
+			<div class="col-lg-2">
+				<img id="image2" class="film_display_style" src="nocontent.png">
+				<br><br>
+				<p id="title2" class="title_style" >No Content</p>
+			</div>
+			<div class="col-lg-2">
+				<img id="image3" class="film_display_style" src="nocontent.png">
+				<br><br>
+				<p id="title3" class="title_style" >No Content</p>
+			</div>
+			<div class="col-lg-2">
+				<img id="image4" class="film_display_style" src="nocontent.png">
+				<br><br>
+				<p id="title4" class="title_style">No Content</p>
+			</div>
+			<div class="col-lg-2 ">
+				<img id="image5" class="film_display_style" src="nocontent.png">
+				<br><br>
+				<p id="title5" class="title_style">No Content</p>
+			</div>
+		</div>
+		<br><br><br>
+
+		</div>
+
+		<!-- End of PROGRAMMES section-->
+
+		<!-- Java Script -->
+		
+		<script type="text/javascript" src = "moodslider.js"></script>
+
+		<!-- End of Java Script-->
+	
+</body>
+</html>

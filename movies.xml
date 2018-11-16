@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MOVIES>
+	<programme>
+		<name>Forest Gump</name>
+		<image>./images/ForestGump.jpg</image>
+		<mood>Sad</mood>
+	</programme>
+	<programme>
+		<name>Dumb and Dumber 2</name>
+		<image>./images/DumbAndDumber2.jpg</image>
+		<mood>Sad</mood>
+	</programme>
+	<programme>
+		<name>Shrek</name>
+		<image>./images/Shrek.jpg</image>
+		<mood>Sad</mood>
+	</programme>
+	<programme>
+		<name>Scary Movie</name>
+		<image>./images/ScaryMovie.jpg</image>
+		<mood>Sad</mood>
+	</programme>
+	<programme>
+		<name>The Hangover</name>
+		<image>./images/TheHangover.jpg</image>
+		<mood>Sad</mood>
+	</programme>
+	<programme>
+		<name>Matrix</name>
+		<image>./images/Matrix.jpg</image>
+		<mood>Calm</mood>
+	</programme>
+	<programme>
+		<name>The Hunger Games</name>
+		<image>./images/HungerGames.jpg</image>
+		<mood>Calm</mood>
+	</programme>
+	<programme>
+		<name>21 Jump Street</name>
+		<image>./images/21JumpStreet.jpg</image>
+		<mood>Calm</mood>
+	</programme>
+	<programme>
+		<name>Iron Man</name>
+		<image>./images/IronMan.JPG</image>
+		<mood>Calm</mood>
+	</programme>
+	<programme>
+		<name>Suicide Squad</name>
+		<image>./images/SuicideSquad.jpg</image>
+		<mood>Calm</mood>
+	</programme>
+	<programme>
+		<name>Amelie</name>
+		<image>./images/Amelie.jpg</image>
+		<mood>Wide Awake</mood>
+	</programme>
+	<programme>
+		<name>The Pianist</name>
+		<image>./images/ThePianist.jpg</image>
+		<mood>Wide Awake</mood>
+	</programme>
+	<programme>
+		<name>Leon</name>
+		<image>./images/Leon.jpg</image>
+		<mood>Wide Awake</mood>
+	</programme>
+	<programme>
+		<name>Requiem For A Dream</name>
+		<image>./images/RequiemForADream.jpg</image>
+		<mood>Wide Awake</mood>
+	</programme>
+	<programme>
+		<name>Titanic</name>
+		<image>./images/Titanic.jpg</image>
+		<mood>Wide Awake</mood>
+	</programme>
+	<programme>
+		<name>Saw</name>
+		<image>./images/Saw.jpg</image>
+		<mood>Fearless</mood>
+	</programme>
+	<programme>
+		<name>Silent Hill</name>
+		<image>./images/SilentHill.JPG</image>
+		<mood>Fearless</mood>
+	</programme>
+	<programme>
+		<name>The Ring</name>
+		<image>./images/TheRing.jpg</image>
+		<mood>Fearless</mood>
+	</programme>
+	<programme>
+		<name>1408</name>
+		<image>./images/1408.jpg</image>
+		<mood>Fearless</mood>
+	</programme>
+	<programme>
+		<name>The Shining</name>
+		<image>./images/TheShining.jpg</image>
+		<mood>Fearless</mood>
+	</programme>
+	<programme>
+		<name>This Means War</name>
+		<image>./images/ThisMeansWar.jpg</image>
+		<mood>Tired</mood>
+	</programme>
+	<programme>
+		<name>Yes Man</name>
+		<image>./images/YesMan.jpg</image>
+		<mood>Tired</mood>
+	</programme>
+	<programme>
+		<name>Mamma Mia</name>
+		<image>./images/MammaMia.jpg</image>
+		<mood>Tired</mood>
+	</programme>
+	<programme>
+		<name>Bridget Jones's Diary</name>
+		<image>./images/BridgetJonessDiary.jpg</image>
+		<mood>Tired</mood>
+	</programme>
+	<programme>
+		<name>Vicky Cristina Barcelona</name>
+		<image>./images/VickyCristinaBarcelona.jpg</image>
+		<mood>Tired</mood>
+	</programme>
+	<programme>
+		<name>Marley And Me</name>
+		<image>./images/MarleyAndMe.jpg</image>
+		<mood>Agitated</mood>
+	</programme>
+	<programme>
+		<name>Whatever Works</name>
+		<image>./images/WhateverWorks.jpg</image>
+		<mood>Agitated</mood>
+	</programme>
+	<programme>
+		<name>Paddington</name>
+		<image>./images/Paddington.jpg</image>
+		<mood>Agitated</mood>
+	</programme>
+	<programme>
+		<name>Midnight In Paris</name>
+		<image>./images/MidnightInParis.jpeg</image>
+		<mood>Agitated</mood>
+	</programme>
+	<programme>
+		<name>Love Actually</name>
+		<image>./images/LoveActually.jpg</image>
+		<mood>Agitated</mood>
+	</programme>
+	<programme>
+		<name>The Grand Budapest Hotel</name>
+		<image>./images/GrandBudapestHotel.jpg</image>
+		<mood>Scared</mood>
+	</programme>
+	<programme>
+		<name>Juno</name>
+		<image>./images/Juno.jpg</image>
+		<mood>Scared</mood>
+	</programme>
+	<programme>
+		<name>Legally Blonde</name>
+		<image>./images/LegallyBlonde.jpg</image>
+		<mood>Scared</mood>
+	</programme>
+	<programme>
+		<name>Ratatouille</name>
+		<image>./images/Ratatouille.jpg</image>
+		<mood>Scared</mood>
+	</programme>
+	<programme>
+		<name>Dirty Dancing</name>
+		<image>./images/DirtyDancing.jpg</image>
+		<mood>Scared</mood>
+	</programme>
+	<programme>
+		<name>Parnassus</name>
+		<image>./images/Parnassus.jpg</image>
+		<mood>Happy</mood>
+	</programme>
+	<programme>
+		<name>Inception</name>
+		<image>./images/Inception.jpg</image>
+		<mood>Happy</mood>
+	</programme>
+	<programme>
+		<name>The Silence Of the Lambs</name>
+		<image>./images/TheSilenceOfTheLambs.jpg</image>
+		<mood>Happy</mood>
+	</programme>
+	<programme>
+		<name>The Shawshank Redemption</name>
+		<image>./images/TheShawshankRedemption.jpg</image>
+		<mood>Happy</mood>
+	</programme>
+	<programme>
+		<name>Life is Beautiful</name>
+		<image>./images/LifeIsBeautiful.jpg</image>
+		<mood>Happy</mood>
+	</programme>
+	<programme>
+		<name>No Content</name>
+		<image>./images/nocontent.png</image>
+		<mood>NO MOOD</mood>
+	</programme>
+	<programme>
+		<name>No Content</name>
+		<image>./images/nocontent.png</image>
+		<mood>NO MOOD</mood>
+	</programme>
+	<programme>
+		<name>No Content</name>
+		<image>./images/nocontent.png</image>
+		<mood>NO MOOD</mood>
+	</programme>
+	<programme>
+		<name>No Content</name>
+		<image>./images/nocontent.png</image>
+		<mood>NO MOOD</mood>
+	</programme>
+	<programme>
+		<name>No Content</name>
+		<image>./images/nocontent.png</image>
+		<mood>NO MOOD</mood>
+	</programme>
+</MOVIES>

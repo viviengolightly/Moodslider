@@ -1,0 +1,97 @@
+/* 
+##################################################
+SKY Software Engineering Academy - Unattended Test 
+Author: Marta Szukalska
+Date: 22nd October 2017
+Moodslider Web Application: CSS Styles Part 
+##################################################
+*/
+
+/*Logo image style*/
+.img_style{
+	float:left;
+	width: 150px;
+	height: 100px;
+}
+
+/*Main header style*/
+.h1_style{
+	position: relative;
+	top: 18px;
+	left: 10px
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+	color: Gray;
+}
+/*Other headers style*/
+.h2_style{
+	position: relative;
+	left: 10px;
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+	color: Gray;
+
+}
+
+/*Navigation bar style*/
+.navbar_style{
+	width: 100%;
+	text-align: center;
+}
+.innerdiv_style{
+	display: inline-block;
+}
+/*Styles for links*/
+a{
+	color: gray;
+	text-decoration: none;
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+	
+}
+/*Style for links,when the mouse hover over them*/
+a:hover{
+	color: gray;
+	background: Gainsboro;
+	text-decoration: none;
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+
+}
+
+/*Sliders' size and position*/
+.outter_style{
+	width: 100%;
+	text-align: center;
+}
+
+.slider_style{
+	
+	display: inline-block;
+}
+/* Style for the sliders' labels*/
+.label_style{
+	position: relative;
+	left: 20px;
+	color: gray;
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+}
+/* Style to display movies' images*/
+.film_display_style{
+	position: relative;
+	left: 10px;
+	width: 70%;
+	text-align: center;
+	border: 1px solid gray;
+}
+
+/* Style to display movies' titles.*/
+.title_style{
+	width: 50%;
+	text-align: center;
+	color: gray;
+	font-family: "Optima" sans-serif; 
+	font-weight: lighter;
+}
+ 
